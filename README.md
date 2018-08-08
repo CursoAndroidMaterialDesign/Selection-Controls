@@ -3,8 +3,6 @@ Selection Controls
 
 Permitem ao usuário selecionar opções e sempre usam a cor secundária.
 
-***Esse projeto faz parte do Curso Completo de Android Material Design ([https://www.udemy.com/curso-android-material-design/](https://www.udemy.com/curso-android-material-design/?couponCode=ANDROIDPRO))***
-
 
 Pré-requisitos
 --------------
